@@ -1,10 +1,7 @@
 import unittest
 
-<<<<<<< HEAD
 from calculator import add, is_equal, multiply, subtract
-=======
 from calculator import add, divide, multiply, subtract
->>>>>>> origin/main
 
 
 class TestCalculator(unittest.TestCase):
